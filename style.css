@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap');
+
+
+.clock{
+  background: white;
+  height: 120px;
+  
+  line-height: 120px;
+  text-align: center;
+  padding: 0 30px;
+  border-radius :8px;
+  box-shadow: -3px -3px 7px rgba(255,255,255,0.05),
+               3px 3px 5px rgba(0,0,0,0.5);
+}
+.clock .display{
+  font-size: 30px;
+  color: black;
+  letter-spacing: 5px;
+  font-family: Arial;
+}
